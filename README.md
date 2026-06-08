@@ -184,7 +184,7 @@ Features:
  
 
 ### Mental Health Analytics Page
- <img width="1113" height="648" alt="Screenshot 2026-06-07 105022" src="https://github.com/user-attachments/assets/fdde6552-3ccb-400c-a7fc-5c9c5f89211d" />
+ <img width="1350" height="742" alt="image" src="https://github.com/user-attachments/assets/441edcb6-7356-435c-a8dc-c84bc27a4395" />
 
 ---
 
