@@ -210,9 +210,6 @@ Student-Social-Media-Mental-Health-Analytics
 ├── Dataset
 │   └── Student_Social_Media_And_Mental_Health_Impact.csv
 │
-├── PPT
-│   └── Student_Mental_Health_Dashboard_Presentation.pptx
-│
 ├── Screenshots
 │   ├── Executive_Overview.png
 │   ├── Social_Media_Analytics.png
