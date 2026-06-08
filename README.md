@@ -177,14 +177,15 @@ Features:
 
 <img width="1440" height="808" alt="Screenshot 2026-06-08 211450" src="https://github.com/user-attachments/assets/cf1dfca1-ef82-42f1-a654-0e10f5d6b186" />
 
+### Mental Health Analytics Page
+
+ <img width="1350" height="742" alt="image" src="https://github.com/user-attachments/assets/441edcb6-7356-435c-a8dc-c84bc27a4395" />
 
 ### Country Analytics
 
  <img width="1433" height="805" alt="Screenshot 2026-06-08 211724" src="https://github.com/user-attachments/assets/986f0384-c869-4b45-ac1c-8fe0f2ad803d" />
  
 
-### Mental Health Analytics Page
- <img width="1350" height="742" alt="image" src="https://github.com/user-attachments/assets/441edcb6-7356-435c-a8dc-c84bc27a4395" />
 
 ---
 
