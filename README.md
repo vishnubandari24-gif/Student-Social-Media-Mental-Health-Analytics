@@ -166,7 +166,7 @@ Features:
 
 ### Executive Overview
 
-<img width="100%" src="Screenshots/Executive_Overview.png">
+<img width="100%" src="C:\Users\vishn\Pictures\Screenshots\Screenshot 2026-06-08 211243.png">
 
 ### Social Media Analytics
 
