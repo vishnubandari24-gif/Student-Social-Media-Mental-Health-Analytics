@@ -166,26 +166,25 @@ Features:
 
 ### Executive Overview
 
-<img width="100%" src="<img width="1431" height="798" alt="Screenshot 2026-06-08 211243" src="https://github.com/user-attachments/assets/5a6153d7-eaac-4cba-9609-b27e98e72331" />
-">
+ <img width="1431" height="798" alt="Screenshot 2026-06-08 211243" src="https://github.com/user-attachments/assets/5a6153d7-eaac-4cba-9609-b27e98e72331" />
 
 ### Social Media Analytics
 
-<img width="100%" src="<img width="1433" height="810" alt="Screenshot 2026-06-08 211414" src="https://github.com/user-attachments/assets/ac0c9462-54d6-47ec-a9be-06bad46c91e6" />
-">
+ <img width="1433" height="810" alt="Screenshot 2026-06-08 211414" src="https://github.com/user-attachments/assets/ac0c9462-54d6-47ec-a9be-06bad46c91e6" />
+ 
 
 ### Lifestyle Analytics
 
-<img width="100%" src="<img width="1440" height="808" alt="Screenshot 2026-06-08 211450" src="https://github.com/user-attachments/assets/cf1dfca1-ef82-42f1-a654-0e10f5d6b186" />
-">
+<img width="1440" height="808" alt="Screenshot 2026-06-08 211450" src="https://github.com/user-attachments/assets/cf1dfca1-ef82-42f1-a654-0e10f5d6b186" />
+
 
 ### Country Analytics
 
-<img width="100%" src="<img width="1433" height="805" alt="Screenshot 2026-06-08 211724" src="https://github.com/user-attachments/assets/986f0384-c869-4b45-ac1c-8fe0f2ad803d" />
-">
+ <img width="1433" height="805" alt="Screenshot 2026-06-08 211724" src="https://github.com/user-attachments/assets/986f0384-c869-4b45-ac1c-8fe0f2ad803d" />
+ 
 
 ### Mental Health Analytics Page
-<img width="100%" src="<img width="1113" height="648" alt="Screenshot 2026-06-07 105022" src="https://github.com/user-attachments/assets/fdde6552-3ccb-400c-a7fc-5c9c5f89211d" />
+ <img width="1113" height="648" alt="Screenshot 2026-06-07 105022" src="https://github.com/user-attachments/assets/fdde6552-3ccb-400c-a7fc-5c9c5f89211d" />
 
 ---
 
